@@ -1,0 +1,2886 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- ============================================================
+     PRIMARY SEO META TAGS
+     ============================================================ -->
+<title>Brewwmongoose — Luxury Coffee Experience | Jaipur, India</title>
+<meta name="description" content="Brewwmongoose is Jaipur's most celebrated luxury café. Experience single-origin coffees, signature brews, artisan desserts, and cinematic ambience. Reserve your table today.">
+<meta name="keywords" content="Brewwmongoose, luxury cafe Jaipur, specialty coffee Jaipur, best cafe Jaipur, single origin coffee, cold brew, espresso bar, coffee experience, artisan coffee Rajasthan, coffee shop C-Scheme Jaipur">
+<meta name="author" content="Brewwmongoose">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow">
+<meta name="theme-color" content="#B88A44">
+<meta name="msapplication-TileColor" content="#0B0B0B">
+<meta name="application-name" content="Brewwmongoose">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://www.brewwmongoose.com/">
+
+<!-- ============================================================
+     OPEN GRAPH (Facebook, WhatsApp, LinkedIn)
+     ============================================================ -->
+<meta property="og:type" content="restaurant">
+<meta property="og:site_name" content="Brewwmongoose">
+<meta property="og:title" content="Brewwmongoose — Luxury Coffee Experience | Jaipur">
+<meta property="og:description" content="Jaipur's most cinematic café. Single-origin beans, signature brews, artisan desserts. Where every cup tells a story.">
+<meta property="og:url" content="https://www.brewwmongoose.com/">
+<meta property="og:image" content="https://www.brewwmongoose.com/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Brewwmongoose — Luxury Coffee Experience, Jaipur">
+<meta property="og:locale" content="en_IN">
+
+<!-- Restaurant-specific OG -->
+<meta property="restaurant:contact_info:street_address" content="C-Scheme, Near Pink Square Mall">
+<meta property="restaurant:contact_info:locality" content="Jaipur">
+<meta property="restaurant:contact_info:region" content="Rajasthan">
+<meta property="restaurant:contact_info:postal_code" content="302001">
+<meta property="restaurant:contact_info:country_name" content="India">
+<meta property="restaurant:contact_info:phone_number" content="+91-98765-43210">
+<meta property="restaurant:contact_info:email" content="hello@brewwmongoose.com">
+<meta property="restaurant:price_range" content="₹₹₹">
+
+<!-- ============================================================
+     TWITTER / X CARD
+     ============================================================ -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@brewwmongoose">
+<meta name="twitter:creator" content="@brewwmongoose">
+<meta name="twitter:title" content="Brewwmongoose — Luxury Coffee Experience | Jaipur">
+<meta name="twitter:description" content="Jaipur's most cinematic café. Single-origin beans, signature brews, artisan desserts. Where every cup tells a story.">
+<meta name="twitter:image" content="https://www.brewwmongoose.com/og-image.jpg">
+<meta name="twitter:image:alt" content="Brewwmongoose Luxury Café, Jaipur">
+
+<!-- ============================================================
+     GEO / LOCAL SEO
+     ============================================================ -->
+<meta name="geo.region" content="IN-RJ">
+<meta name="geo.placename" content="Jaipur, Rajasthan, India">
+<meta name="geo.position" content="26.9124;75.7873">
+<meta name="ICBM" content="26.9124, 75.7873">
+
+<!-- ============================================================
+     STRUCTURED DATA — JSON-LD
+     ============================================================ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CafeOrCoffeeShop",
+      "@id": "https://www.brewwmongoose.com/#organization",
+      "name": "Brewwmongoose",
+      "alternateName": "Breww Mongoose",
+      "description": "Jaipur's most celebrated luxury café experience. We craft extraordinary single-origin coffees, signature brews, and artisan desserts in a cinematic, immersive atmosphere.",
+      "url": "https://www.brewwmongoose.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.brewwmongoose.com/logo.png",
+        "width": 300,
+        "height": 100
+      },
+      "image": [
+        "https://www.brewwmongoose.com/og-image.jpg"
+      ],
+      "telephone": "+91-98765-43210",
+      "email": "hello@brewwmongoose.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "C-Scheme, Near Pink Square Mall",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "postalCode": "302001",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 26.9124,
+        "longitude": 75.7873
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+          "opens": "08:00",
+          "closes": "22:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Saturday","Sunday"],
+          "opens": "09:00",
+          "closes": "23:00"
+        }
+      ],
+      "priceRange": "₹₹₹",
+      "currenciesAccepted": "INR",
+      "paymentAccepted": "Cash, Credit Card, Debit Card, UPI",
+      "servesCuisine": ["Coffee", "Specialty Coffee", "Desserts", "Continental"],
+      "hasMap": "https://maps.google.com/?q=C-Scheme+Jaipur+Rajasthan",
+      "sameAs": [
+        "https://www.instagram.com/brewwmongoose/",
+        "https://www.facebook.com/brewwmongoose",
+        "https://twitter.com/brewwmongoose"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "1247",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "foundingDate": "2019",
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 25
+      },
+      "amenityFeature": [
+        { "@type": "LocationFeatureSpecification", "name": "Free Wi-Fi", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Outdoor Seating", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Takeaway", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Reservations", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Air Conditioning", "value": true }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.brewwmongoose.com/#website",
+      "url": "https://www.brewwmongoose.com/",
+      "name": "Brewwmongoose",
+      "description": "Official website of Brewwmongoose — Luxury Coffee Experience, Jaipur",
+      "publisher": { "@id": "https://www.brewwmongoose.com/#organization" },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://www.brewwmongoose.com/?s={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.brewwmongoose.com/#webpage",
+      "url": "https://www.brewwmongoose.com/",
+      "name": "Brewwmongoose — Luxury Coffee Experience | Jaipur, India",
+      "isPartOf": { "@id": "https://www.brewwmongoose.com/#website" },
+      "about": { "@id": "https://www.brewwmongoose.com/#organization" },
+      "description": "Discover Brewwmongoose — Jaipur's most cinematic luxury café. Explore our menu, reserve a table, and experience coffee culture like never before.",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.brewwmongoose.com/" }
+        ]
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2019-01-01",
+      "dateModified": "2025-05-20"
+    },
+    {
+      "@type": "Menu",
+      "name": "Brewwmongoose Menu",
+      "url": "https://www.brewwmongoose.com/#menu",
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Specialty Coffee",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Ethiopian Yirgacheffe",
+              "description": "Bright citrus notes with a floral jasmine finish. Light roast, single origin.",
+              "offers": { "@type": "Offer", "price": "280", "priceCurrency": "INR" }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Cold Brew Noir",
+              "description": "18-hour steeped, velvety smooth. Served over hand-carved ice.",
+              "offers": { "@type": "Offer", "price": "320", "priceCurrency": "INR" }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Signature Brews",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Midnight Espresso Tonic",
+              "description": "Double shot espresso, elderflower tonic, lemon zest.",
+              "offers": { "@type": "Offer", "price": "380", "priceCurrency": "INR" }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Blueberry Cardamom Latte",
+              "description": "House-made blueberry compote, ground cardamom, oat milk foam.",
+              "offers": { "@type": "Offer", "price": "360", "priceCurrency": "INR" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where is Brewwmongoose located?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brewwmongoose is located in C-Scheme, near Pink Square Mall, Jaipur, Rajasthan 302001, India."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the opening hours of Brewwmongoose?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We are open Monday to Friday from 8:00 AM to 10:00 PM, and on weekends (Saturday & Sunday) from 9:00 AM to 11:00 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Brewwmongoose take reservations?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! You can reserve a table directly on our website, or call us at +91-98765-43210 or email hello@brewwmongoose.com."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What type of coffee does Brewwmongoose serve?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We specialise in single-origin specialty coffees sourced from Coorg, Chikmagalur, Ethiopia, and beyond — including cold brews, pour-overs, espresso-based drinks, and exclusive signature seasonal creations."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+<!-- ============================================================
+     PERFORMANCE & INDEXING HINTS
+     ============================================================ -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,900;1,400;1,700&family=Inter:wght@300;400;500;600&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<!-- GSAP -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/TextPlugin.min.js"></script>
+
+<style>
+/* ============================================================
+   CSS VARIABLES & RESET
+   ============================================================ */
+:root {
+  --espresso: #0B0B0B;
+  --deep-mocha: #2A1E17;
+  --coffee: #4A3428;
+  --beige: #D6C1A6;
+  --cream: #F7F3EE;
+  --gold: #B88A44;
+  --gold-light: #D4A853;
+  --white: #FFFFFF;
+  --text-muted: rgba(214, 193, 166, 0.6);
+  --glass: rgba(255,255,255,0.05);
+  --glass-border: rgba(255,255,255,0.08);
+  --shadow-gold: 0 0 60px rgba(184,138,68,0.15);
+
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Inter', sans-serif;
+  --font-pop: 'Poppins', sans-serif;
+
+  --nav-h: 80px;
+  --transition: cubic-bezier(0.4, 0, 0.2, 1);
+  --spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
+body {
+  background: var(--espresso);
+  color: var(--beige);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+  cursor: none;
+}
+img { max-width: 100%; display: block; }
+a { text-decoration: none; color: inherit; }
+button { border: none; background: none; cursor: none; }
+ul { list-style: none; }
+input, textarea, select { font-family: inherit; }
+
+/* ============================================================
+   CUSTOM CURSOR
+   ============================================================ */
+#cursor-dot {
+  width: 8px; height: 8px;
+  background: var(--gold);
+  border-radius: 50%;
+  position: fixed;
+  top: 0; left: 0;
+  pointer-events: none;
+  z-index: 99999;
+  transform: translate(-50%, -50%);
+  transition: width 0.2s, height 0.2s, background 0.2s;
+}
+#cursor-ring {
+  width: 36px; height: 36px;
+  border: 1.5px solid var(--gold);
+  border-radius: 50%;
+  position: fixed;
+  top: 0; left: 0;
+  pointer-events: none;
+  z-index: 99998;
+  transform: translate(-50%, -50%);
+  transition: transform 0.1s, width 0.3s, height 0.3s, opacity 0.3s;
+  opacity: 0.6;
+}
+body.cursor-hover #cursor-dot { width: 14px; height: 14px; }
+body.cursor-hover #cursor-ring { width: 56px; height: 56px; opacity: 0.9; }
+
+/* ============================================================
+   PRELOADER
+   ============================================================ */
+#preloader {
+  position: fixed; inset: 0;
+  background: var(--espresso);
+  z-index: 99997;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+}
+.preloader-logo {
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 6vw, 4rem);
+  color: var(--gold);
+  letter-spacing: 0.1em;
+  opacity: 0;
+  animation: preloaderFade 0.8s forwards 0.3s;
+}
+.preloader-bar {
+  width: 200px; height: 1px;
+  background: rgba(184,138,68,0.2);
+  position: relative;
+  overflow: hidden;
+}
+.preloader-fill {
+  height: 100%;
+  background: var(--gold);
+  width: 0%;
+  transition: width 1.8s var(--transition);
+}
+.preloader-tagline {
+  font-family: var(--font-pop);
+  font-size: 0.75rem;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  opacity: 0;
+  animation: preloaderFade 0.8s forwards 0.6s;
+}
+@keyframes preloaderFade { to { opacity: 1; } }
+
+/* ============================================================
+   SCROLL PROGRESS BAR
+   ============================================================ */
+#scroll-progress {
+  position: fixed;
+  top: 0; left: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--gold), var(--gold-light));
+  z-index: 9999;
+  width: 0%;
+  transition: width 0.1s;
+}
+
+/* ============================================================
+   NOISE TEXTURE OVERLAY
+   ============================================================ */
+body::after {
+  content: '';
+  position: fixed; inset: 0;
+  pointer-events: none;
+  z-index: 9990;
+  opacity: 0.025;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-size: 200px;
+}
+
+/* ============================================================
+   NAVBAR
+   ============================================================ */
+#navbar {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: var(--nav-h);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  padding: 0 clamp(1.5rem, 5vw, 4rem);
+  transition: background 0.4s, backdrop-filter 0.4s, height 0.4s;
+}
+#navbar.scrolled {
+  background: rgba(11,11,11,0.85);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  height: 64px;
+  border-bottom: 1px solid var(--glass-border);
+}
+.nav-logo {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--gold);
+  letter-spacing: 0.05em;
+  flex-shrink: 0;
+  z-index: 1001;
+}
+.nav-logo span { color: var(--cream); }
+.nav-links {
+  display: flex;
+  gap: clamp(1.5rem, 3vw, 2.5rem);
+  margin-left: auto;
+  margin-right: clamp(1.5rem, 3vw, 2.5rem);
+  align-items: center;
+}
+.nav-link {
+  font-family: var(--font-pop);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--beige);
+  opacity: 0.8;
+  position: relative;
+  transition: opacity 0.3s, color 0.3s;
+}
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -4px; left: 0;
+  width: 0; height: 1px;
+  background: var(--gold);
+  transition: width 0.4s var(--transition);
+}
+.nav-link:hover, .nav-link.active { opacity: 1; color: var(--gold); }
+.nav-link:hover::after, .nav-link.active::after { width: 100%; }
+.nav-cta {
+  font-family: var(--font-pop);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--espresso);
+  background: var(--gold);
+  padding: 0.6rem 1.4rem;
+  border-radius: 2px;
+  transition: background 0.3s, transform 0.3s var(--spring), box-shadow 0.3s;
+  white-space: nowrap;
+}
+.nav-cta:hover {
+  background: var(--gold-light);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(184,138,68,0.4);
+}
+
+/* Hamburger */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: auto;
+  z-index: 1002;
+  padding: 8px;
+}
+.hamburger span {
+  display: block;
+  width: 24px; height: 1.5px;
+  background: var(--beige);
+  transition: transform 0.4s, opacity 0.4s, width 0.4s;
+  transform-origin: center;
+}
+.hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+.hamburger.open span:nth-child(2) { opacity: 0; width: 0; }
+.hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+/* Mobile Menu */
+#mobile-menu {
+  position: fixed; inset: 0;
+  background: var(--espresso);
+  z-index: 999;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.5s;
+}
+#mobile-menu.open { opacity: 1; pointer-events: all; }
+#mobile-menu .nav-link {
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 8vw, 3.5rem);
+  font-weight: 400;
+  font-style: italic;
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.4s, transform 0.4s, color 0.3s;
+  letter-spacing: 0.02em;
+  text-transform: none;
+}
+#mobile-menu.open .nav-link { opacity: 0.9; transform: translateY(0); }
+#mobile-menu.open .nav-link:nth-child(1) { transition-delay: 0.1s; }
+#mobile-menu.open .nav-link:nth-child(2) { transition-delay: 0.15s; }
+#mobile-menu.open .nav-link:nth-child(3) { transition-delay: 0.2s; }
+#mobile-menu.open .nav-link:nth-child(4) { transition-delay: 0.25s; }
+#mobile-menu.open .nav-link:nth-child(5) { transition-delay: 0.3s; }
+#mobile-menu.open .nav-link:nth-child(6) { transition-delay: 0.35s; }
+#mobile-menu.open .nav-link:nth-child(7) { transition-delay: 0.4s; }
+#mobile-menu.open .nav-link:nth-child(8) { transition-delay: 0.45s; }
+.mobile-menu-footer {
+  position: absolute;
+  bottom: 3rem;
+  display: flex;
+  gap: 2rem;
+  opacity: 0;
+  transition: opacity 0.5s 0.5s;
+}
+#mobile-menu.open .mobile-menu-footer { opacity: 1; }
+.mobile-menu-footer a { color: var(--gold); font-size: 1.2rem; }
+
+/* ============================================================
+   HERO SECTION
+   ============================================================ */
+#hero {
+  height: 100svh;
+  min-height: 600px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.hero-bg {
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse 80% 60% at 60% 40%, rgba(74,52,40,0.7) 0%, transparent 70%),
+    radial-gradient(ellipse 60% 80% at 20% 80%, rgba(42,30,23,0.8) 0%, transparent 60%),
+    linear-gradient(135deg, #0B0B0B 0%, #1a1008 40%, #2A1E17 70%, #0B0B0B 100%);
+}
+/* Animated coffee circles */
+.hero-circle {
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid rgba(184,138,68,0.15);
+  animation: heroCircle 8s linear infinite;
+}
+.hero-circle:nth-child(1) { width: 400px; height: 400px; top: 50%; left: 60%; transform: translate(-50%,-50%); animation-duration: 12s; }
+.hero-circle:nth-child(2) { width: 600px; height: 600px; top: 50%; left: 60%; transform: translate(-50%,-50%); animation-duration: 18s; animation-direction: reverse; }
+.hero-circle:nth-child(3) { width: 800px; height: 800px; top: 50%; left: 60%; transform: translate(-50%,-50%); animation-duration: 25s; border-color: rgba(184,138,68,0.07); }
+@keyframes heroCircle { to { transform: translate(-50%,-50%) rotate(360deg); } }
+
+/* Floating particles */
+.particle {
+  position: absolute;
+  width: 2px; height: 2px;
+  background: var(--gold);
+  border-radius: 50%;
+  opacity: 0;
+  animation: particleFloat linear infinite;
+}
+@keyframes particleFloat {
+  0% { opacity: 0; transform: translateY(0) scale(0); }
+  20% { opacity: 0.8; transform: translateY(-20px) scale(1); }
+  80% { opacity: 0.4; }
+  100% { opacity: 0; transform: translateY(-120px) scale(0.5); }
+}
+
+/* Steam effect */
+.steam-wrap {
+  position: absolute;
+  bottom: 20%;
+  right: 25%;
+  opacity: 0.25;
+}
+.steam {
+  width: 4px;
+  height: 60px;
+  background: linear-gradient(to top, var(--beige), transparent);
+  border-radius: 4px;
+  display: inline-block;
+  margin: 0 6px;
+  animation: steamRise 2.5s ease-in-out infinite;
+  transform-origin: bottom center;
+}
+.steam:nth-child(2) { animation-delay: 0.4s; height: 45px; }
+.steam:nth-child(3) { animation-delay: 0.8s; height: 70px; }
+@keyframes steamRise {
+  0%, 100% { transform: scaleX(1) translateY(0); opacity: 0; }
+  30% { opacity: 1; }
+  100% { transform: scaleX(0.5) translateY(-60px); opacity: 0; }
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 900px;
+  padding: clamp(1.5rem, 5vw, 4rem);
+  text-align: left;
+}
+.hero-eyebrow {
+  font-family: var(--font-pop);
+  font-size: clamp(0.65rem, 1.5vw, 0.8rem);
+  font-weight: 500;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 1.5rem;
+  opacity: 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.hero-eyebrow::before {
+  content: '';
+  width: 40px; height: 1px;
+  background: var(--gold);
+  display: block;
+}
+.hero-title {
+  font-family: var(--font-serif);
+  font-size: clamp(3rem, 9vw, 7.5rem);
+  font-weight: 900;
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  color: var(--cream);
+  margin-bottom: 1.5rem;
+  opacity: 0;
+}
+.hero-title em {
+  font-style: italic;
+  color: var(--gold);
+  display: block;
+}
+.hero-subtitle {
+  font-family: var(--font-sans);
+  font-size: clamp(0.95rem, 2vw, 1.15rem);
+  line-height: 1.8;
+  color: var(--beige);
+  opacity: 0.75;
+  max-width: 480px;
+  margin-bottom: 2.5rem;
+  opacity: 0;
+}
+.hero-btns {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  opacity: 0;
+}
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-pop);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--espresso);
+  background: var(--gold);
+  padding: 1rem 2rem;
+  border-radius: 2px;
+  transition: all 0.4s var(--spring);
+  position: relative;
+  overflow: hidden;
+}
+.btn-primary::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: var(--gold-light);
+  transform: translateX(-100%);
+  transition: transform 0.4s var(--transition);
+}
+.btn-primary:hover::before { transform: translateX(0); }
+.btn-primary span { position: relative; z-index: 1; }
+.btn-primary:hover { transform: translateY(-3px); box-shadow: 0 16px 40px rgba(184,138,68,0.45); }
+
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-pop);
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--beige);
+  border: 1px solid rgba(214,193,166,0.3);
+  padding: 1rem 2rem;
+  border-radius: 2px;
+  transition: all 0.4s;
+}
+.btn-ghost:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+  transform: translateY(-3px);
+  background: rgba(184,138,68,0.08);
+}
+
+/* Scroll indicator */
+.scroll-indicator {
+  position: absolute;
+  bottom: 2.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  opacity: 0;
+  z-index: 2;
+}
+.scroll-indicator span {
+  font-family: var(--font-pop);
+  font-size: 0.65rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.scroll-mouse {
+  width: 22px; height: 36px;
+  border: 1.5px solid rgba(214,193,166,0.4);
+  border-radius: 11px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding-top: 6px;
+}
+.scroll-dot {
+  width: 3px; height: 8px;
+  background: var(--gold);
+  border-radius: 2px;
+  animation: scrollBounce 1.6s ease-in-out infinite;
+}
+@keyframes scrollBounce {
+  0%, 100% { transform: translateY(0); opacity: 1; }
+  50% { transform: translateY(8px); opacity: 0.3; }
+}
+
+/* ============================================================
+   SECTION SHARED STYLES
+   ============================================================ */
+section { padding: clamp(4rem, 10vw, 8rem) clamp(1.5rem, 5vw, 4rem); }
+.section-label {
+  font-family: var(--font-pop);
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.section-label::before {
+  content: '';
+  width: 30px; height: 1px;
+  background: var(--gold);
+  flex-shrink: 0;
+}
+.section-title {
+  font-family: var(--font-serif);
+  font-size: clamp(2.2rem, 6vw, 4.5rem);
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: var(--cream);
+}
+.section-title em { font-style: italic; color: var(--gold); }
+.section-body {
+  font-family: var(--font-sans);
+  font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+  line-height: 1.9;
+  color: var(--beige);
+  opacity: 0.75;
+  max-width: 520px;
+}
+
+/* Cinematic separator */
+.separator {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.separator-line { flex: 1; height: 1px; background: var(--glass-border); }
+.separator-dot { width: 4px; height: 4px; background: var(--gold); border-radius: 50%; }
+
+/* ============================================================
+   ABOUT SECTION
+   ============================================================ */
+#about {
+  background: var(--deep-mocha);
+  position: relative;
+  overflow: hidden;
+}
+#about::before {
+  content: '';
+  position: absolute;
+  top: -200px; right: -200px;
+  width: 600px; height: 600px;
+  background: radial-gradient(circle, rgba(184,138,68,0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(2rem, 5vw, 5rem);
+  align-items: center;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.about-visual {
+  position: relative;
+}
+.about-img-main {
+  width: 100%;
+  aspect-ratio: 3/4;
+  background: linear-gradient(135deg, #2A1E17 0%, #4A3428 50%, #2A1E17 100%);
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about-img-main::after {
+  content: '☕';
+  font-size: 8rem;
+  opacity: 0.06;
+}
+.about-img-accent {
+  position: absolute;
+  bottom: -30px; right: -30px;
+  width: 55%;
+  aspect-ratio: 1;
+  background: linear-gradient(135deg, #4A3428, #B88A44);
+  border-radius: 4px;
+  border: 4px solid var(--espresso);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  color: var(--cream);
+  font-style: italic;
+  text-align: center;
+  padding: 1rem;
+}
+.about-text { padding: clamp(1rem, 3vw, 2rem) 0; }
+.about-text .section-title { margin: 1rem 0 1.5rem; }
+.about-text .section-body { margin-bottom: 2rem; }
+
+/* Stats counters */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-top: 3rem;
+}
+.stat-item { border-left: 1px solid var(--glass-border); padding-left: 1.5rem; }
+.stat-number {
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  color: var(--gold);
+  line-height: 1;
+  margin-bottom: 0.4rem;
+}
+.stat-label {
+  font-family: var(--font-pop);
+  font-size: 0.72rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+/* ============================================================
+   MENU SECTION
+   ============================================================ */
+#menu {
+  background: var(--espresso);
+  position: relative;
+}
+.menu-header {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 3rem;
+}
+.menu-header .section-label { justify-content: center; }
+.menu-header .section-label::before { display: none; }
+.menu-header .section-title { margin: 1rem 0; }
+
+/* Filter tabs */
+.filter-tabs {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 3rem;
+}
+.filter-tab {
+  font-family: var(--font-pop);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--beige);
+  opacity: 0.6;
+  padding: 0.6rem 1.2rem;
+  border: 1px solid var(--glass-border);
+  border-radius: 2px;
+  cursor: none;
+  transition: all 0.3s;
+  background: transparent;
+}
+.filter-tab:hover, .filter-tab.active {
+  color: var(--espresso);
+  background: var(--gold);
+  border-color: var(--gold);
+  opacity: 1;
+}
+
+/* Product cards grid */
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+  gap: clamp(1rem, 2.5vw, 1.5rem);
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.menu-card {
+  background: var(--deep-mocha);
+  border: 1px solid var(--glass-border);
+  border-radius: 4px;
+  overflow: hidden;
+  transition: transform 0.4s var(--spring), box-shadow 0.4s, border-color 0.4s;
+  cursor: none;
+  position: relative;
+}
+.menu-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 24px 60px rgba(0,0,0,0.5), 0 0 0 1px rgba(184,138,68,0.3);
+  border-color: rgba(184,138,68,0.3);
+}
+.menu-card-img {
+  width: 100%;
+  aspect-ratio: 4/3;
+  background: linear-gradient(135deg, #2A1E17, #4A3428);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+}
+.menu-card-overlay {
+  position: absolute; inset: 0;
+  background: linear-gradient(to top, rgba(42,30,23,0.9), transparent 60%);
+  opacity: 0;
+  transition: opacity 0.4s;
+  display: flex;
+  align-items: flex-end;
+  padding: 1.5rem;
+}
+.menu-card:hover .menu-card-overlay { opacity: 1; }
+.menu-card-overlay-btn {
+  font-family: var(--font-pop);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--espresso);
+  background: var(--gold);
+  padding: 0.6rem 1.2rem;
+  border-radius: 2px;
+  width: 100%;
+  text-align: center;
+  transform: translateY(10px);
+  transition: transform 0.4s var(--spring) 0.1s;
+}
+.menu-card:hover .menu-card-overlay-btn { transform: translateY(0); }
+.menu-card-badge {
+  position: absolute;
+  top: 1rem; right: 1rem;
+  font-family: var(--font-pop);
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--espresso);
+  background: var(--gold);
+  padding: 0.3rem 0.6rem;
+  border-radius: 2px;
+}
+.menu-card-body { padding: 1.25rem; }
+.menu-card-category {
+  font-family: var(--font-pop);
+  font-size: 0.65rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--gold);
+  opacity: 0.8;
+  margin-bottom: 0.5rem;
+}
+.menu-card-title {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--cream);
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+}
+.menu-card-desc {
+  font-size: 0.82rem;
+  line-height: 1.7;
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+}
+.menu-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid var(--glass-border);
+  padding-top: 1rem;
+}
+.menu-card-price {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--gold);
+}
+.menu-card-add {
+  width: 32px; height: 32px;
+  border: 1px solid var(--glass-border);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--beige);
+  font-size: 1rem;
+  transition: all 0.3s;
+  cursor: none;
+}
+.menu-card-add:hover { background: var(--gold); border-color: var(--gold); color: var(--espresso); }
+
+/* ============================================================
+   EXPERIENCE SECTION
+   ============================================================ */
+#experience {
+  background: var(--deep-mocha);
+  position: relative;
+  overflow: hidden;
+}
+#experience::before {
+  content: '';
+  position: absolute;
+  bottom: -100px; left: -100px;
+  width: 500px; height: 500px;
+  background: radial-gradient(circle, rgba(184,138,68,0.06) 0%, transparent 70%);
+}
+.experience-header {
+  max-width: 1300px;
+  margin: 0 auto 3rem;
+}
+.experience-header .section-title { margin: 1rem 0; }
+.bento-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto;
+  gap: 1rem;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.bento-item {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--glass-border);
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+  cursor: none;
+  transition: transform 0.4s var(--spring), box-shadow 0.4s, border-color 0.4s;
+}
+.bento-item:hover {
+  transform: scale(1.02);
+  box-shadow: 0 20px 50px rgba(0,0,0,0.4);
+  border-color: rgba(184,138,68,0.25);
+}
+.bento-large { grid-column: span 2; }
+.bento-tall { grid-row: span 2; }
+.bento-content {
+  padding: 2rem;
+  height: 100%;
+  min-height: 240px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.bento-bg {
+  position: absolute; inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  opacity: 0.07;
+  pointer-events: none;
+}
+.bento-item:nth-child(1) { background: linear-gradient(135deg, rgba(74,52,40,0.5), rgba(42,30,23,0.8)); }
+.bento-item:nth-child(2) { background: linear-gradient(135deg, rgba(184,138,68,0.1), rgba(42,30,23,0.9)); }
+.bento-item:nth-child(3) { background: linear-gradient(135deg, rgba(42,30,23,0.8), rgba(74,52,40,0.4)); }
+.bento-item:nth-child(4) { background: linear-gradient(135deg, rgba(74,52,40,0.6), rgba(11,11,11,0.8)); }
+.bento-item:nth-child(5) { background: linear-gradient(135deg, rgba(42,30,23,0.9), rgba(184,138,68,0.08)); }
+.bento-tag {
+  font-family: var(--font-pop);
+  font-size: 0.65rem;
+  font-weight: 500;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 0.75rem;
+}
+.bento-title {
+  font-family: var(--font-serif);
+  font-size: clamp(1.2rem, 2.5vw, 1.8rem);
+  font-weight: 600;
+  color: var(--cream);
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
+}
+.bento-desc {
+  font-size: 0.85rem;
+  line-height: 1.7;
+  color: var(--text-muted);
+  max-width: 340px;
+}
+
+/* ============================================================
+   INSTAGRAM / GALLERY SECTION
+   ============================================================ */
+#gallery {
+  background: var(--espresso);
+  position: relative;
+}
+.gallery-header {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 3rem;
+}
+.gallery-header .section-label { justify-content: center; }
+.gallery-header .section-label::before { display: none; }
+.gallery-header .section-title { margin: 1rem 0; }
+.insta-handle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--gold);
+  font-family: var(--font-pop);
+  font-size: 0.85rem;
+  margin-top: 0.75rem;
+  transition: opacity 0.3s;
+}
+.insta-handle:hover { opacity: 0.75; }
+
+.masonry-grid {
+  columns: 4;
+  column-gap: 1rem;
+  max-width: 1300px;
+  margin: 0 auto 2rem;
+}
+.masonry-item {
+  break-inside: avoid;
+  margin-bottom: 1rem;
+  position: relative;
+  overflow: hidden;
+  border-radius: 4px;
+  cursor: none;
+  background: var(--deep-mocha);
+}
+.masonry-item-inner {
+  aspect-ratio: var(--ar, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  background: linear-gradient(var(--g1, #2A1E17), var(--g2, #4A3428));
+  transition: transform 0.5s var(--transition);
+  position: relative;
+}
+.masonry-overlay {
+  position: absolute; inset: 0;
+  background: rgba(11,11,11,0.7);
+  opacity: 0;
+  transition: opacity 0.4s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.masonry-item:hover .masonry-overlay { opacity: 1; }
+.masonry-item:hover .masonry-item-inner { transform: scale(1.05); }
+.masonry-overlay-icon { font-size: 1.5rem; color: var(--cream); }
+.masonry-overlay-likes {
+  font-family: var(--font-pop);
+  font-size: 0.8rem;
+  color: var(--beige);
+  letter-spacing: 0.1em;
+}
+.gallery-cta-wrap { text-align: center; }
+
+/* Lightbox */
+#lightbox {
+  position: fixed; inset: 0;
+  background: rgba(11,11,11,0.96);
+  z-index: 9000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s;
+  backdrop-filter: blur(20px);
+}
+#lightbox.open { opacity: 1; pointer-events: all; }
+#lightbox-content {
+  max-width: 700px;
+  width: 90%;
+  aspect-ratio: 1;
+  background: var(--deep-mocha);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6rem;
+  transform: scale(0.9);
+  transition: transform 0.4s var(--spring);
+  border: 1px solid var(--glass-border);
+}
+#lightbox.open #lightbox-content { transform: scale(1); }
+#lightbox-close {
+  position: absolute;
+  top: 2rem; right: 2rem;
+  color: var(--beige);
+  font-size: 1.5rem;
+  cursor: none;
+  width: 48px; height: 48px;
+  border: 1px solid var(--glass-border);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s;
+}
+#lightbox-close:hover { background: var(--gold); color: var(--espresso); border-color: var(--gold); }
+
+/* ============================================================
+   JOURNAL SECTION
+   ============================================================ */
+#journal {
+  background: var(--deep-mocha);
+}
+.journal-header {
+  max-width: 1300px;
+  margin: 0 auto 3rem;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+.journal-header .section-title { margin: 1rem 0 0; }
+.journal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr));
+  gap: 1.5rem;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.journal-card {
+  background: rgba(255,255,255,0.025);
+  border: 1px solid var(--glass-border);
+  border-radius: 4px;
+  overflow: hidden;
+  cursor: none;
+  transition: transform 0.4s var(--spring), box-shadow 0.4s, border-color 0.4s;
+}
+.journal-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 50px rgba(0,0,0,0.4);
+  border-color: rgba(184,138,68,0.25);
+}
+.journal-card-img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  background: linear-gradient(135deg, #2A1E17, #4A3428);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  position: relative;
+  overflow: hidden;
+}
+.journal-card-img::after {
+  content: '';
+  position: absolute; inset: 0;
+  background: linear-gradient(to top, rgba(42,30,23,0.6), transparent);
+}
+.journal-card-body { padding: 1.5rem; }
+.journal-card-meta {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.journal-card-tag {
+  font-family: var(--font-pop);
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--espresso);
+  background: var(--gold);
+  padding: 0.25rem 0.6rem;
+  border-radius: 2px;
+}
+.journal-card-date {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-family: var(--font-pop);
+}
+.journal-card-title {
+  font-family: var(--font-serif);
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--cream);
+  line-height: 1.3;
+  margin-bottom: 0.75rem;
+  transition: color 0.3s;
+}
+.journal-card:hover .journal-card-title { color: var(--gold); }
+.journal-card-excerpt {
+  font-size: 0.85rem;
+  line-height: 1.8;
+  color: var(--text-muted);
+  margin-bottom: 1.25rem;
+}
+.journal-card-read {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-pop);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--gold);
+  transition: gap 0.3s;
+}
+.journal-card:hover .journal-card-read { gap: 14px; }
+
+/* ============================================================
+   RESERVATION SECTION
+   ============================================================ */
+#reservation {
+  background: var(--espresso);
+  position: relative;
+  overflow: hidden;
+}
+#reservation::before {
+  content: '';
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  width: 800px; height: 800px;
+  background: radial-gradient(circle, rgba(184,138,68,0.05) 0%, transparent 70%);
+  pointer-events: none;
+}
+.reservation-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(2rem, 5vw, 5rem);
+  align-items: start;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.reservation-info .section-title { margin: 1rem 0 1.5rem; }
+.reservation-info .section-body { margin-bottom: 2rem; }
+.reservation-details {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+.reservation-detail {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.reservation-detail-icon {
+  width: 40px; height: 40px;
+  background: rgba(184,138,68,0.1);
+  border: 1px solid rgba(184,138,68,0.2);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--gold);
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+.reservation-detail-text h4 {
+  font-family: var(--font-pop);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--cream);
+  margin-bottom: 0.25rem;
+}
+.reservation-detail-text p {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+/* Glassmorphism form */
+.res-form {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--glass-border);
+  border-radius: 8px;
+  padding: clamp(1.5rem, 4vw, 2.5rem);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+.form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+.form-group { position: relative; margin-bottom: 1.25rem; }
+.floating-label {
+  position: absolute;
+  top: 50%; left: 1rem;
+  transform: translateY(-50%);
+  font-family: var(--font-pop);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  pointer-events: none;
+  transition: all 0.3s;
+  background: transparent;
+}
+.form-group textarea ~ .floating-label { top: 1rem; transform: none; }
+.form-control {
+  width: 100%;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--glass-border);
+  border-radius: 4px;
+  padding: 1rem;
+  color: var(--cream);
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  transition: border-color 0.3s, background 0.3s;
+  outline: none;
+}
+.form-control:focus { border-color: var(--gold); background: rgba(184,138,68,0.05); }
+.form-control:focus ~ .floating-label,
+.form-control:not(:placeholder-shown) ~ .floating-label {
+  top: -0.5rem; left: 0.75rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  color: var(--gold);
+  background: rgba(11,11,11,0.9);
+  padding: 0 0.25rem;
+}
+.form-control::placeholder { color: transparent; }
+textarea.form-control { resize: vertical; min-height: 100px; }
+select.form-control { color: var(--text-muted); }
+select.form-control:focus,
+select.form-control:not([value=""]) { color: var(--cream); }
+select.form-control option { background: var(--deep-mocha); color: var(--cream); }
+
+.form-submit {
+  width: 100%;
+  padding: 1rem;
+  background: var(--gold);
+  color: var(--espresso);
+  font-family: var(--font-pop);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  border-radius: 4px;
+  cursor: none;
+  transition: all 0.4s var(--spring);
+  position: relative;
+  overflow: hidden;
+}
+.form-submit::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: var(--gold-light);
+  transform: translateX(-100%);
+  transition: transform 0.4s;
+}
+.form-submit:hover::before { transform: translateX(0); }
+.form-submit span { position: relative; z-index: 1; }
+.form-submit:hover { transform: translateY(-2px); box-shadow: 0 12px 30px rgba(184,138,68,0.4); }
+
+/* Form success */
+.form-success {
+  display: none;
+  text-align: center;
+  padding: 2rem;
+}
+.form-success.show { display: block; }
+.success-icon {
+  width: 64px; height: 64px;
+  background: rgba(184,138,68,0.1);
+  border: 1px solid var(--gold);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  color: var(--gold);
+  margin: 0 auto 1.5rem;
+}
+.success-title {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  color: var(--cream);
+  margin-bottom: 0.75rem;
+}
+.success-text { font-size: 0.9rem; color: var(--text-muted); }
+
+/* ============================================================
+   CONTACT SECTION
+   ============================================================ */
+#contact {
+  background: var(--deep-mocha);
+}
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(2rem, 5vw, 5rem);
+  max-width: 1200px;
+  margin: 0 auto;
+  align-items: start;
+}
+.contact-info .section-title { margin: 1rem 0 2rem; }
+.contact-items { display: flex; flex-direction: column; gap: 1.5rem; }
+.contact-item {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+}
+.contact-icon {
+  width: 44px; height: 44px;
+  background: rgba(184,138,68,0.08);
+  border: 1px solid rgba(184,138,68,0.2);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--gold);
+  flex-shrink: 0;
+}
+.contact-item-text h4 {
+  font-family: var(--font-pop);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--cream);
+  margin-bottom: 0.4rem;
+}
+.contact-item-text p, .contact-item-text a {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  transition: color 0.3s;
+}
+.contact-item-text a:hover { color: var(--gold); }
+
+.hours-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+.hours-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--glass-border);
+}
+.hours-row span:last-child { color: var(--gold); }
+
+.social-links {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 2rem;
+}
+.social-link {
+  width: 44px; height: 44px;
+  background: var(--glass);
+  border: 1px solid var(--glass-border);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--beige);
+  font-size: 1rem;
+  transition: all 0.3s var(--spring);
+  cursor: none;
+}
+.social-link:hover {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: var(--espresso);
+  transform: translateY(-4px);
+}
+
+/* Map placeholder */
+.map-container {
+  height: 300px;
+  background: linear-gradient(135deg, #1a1008, #2A1E17);
+  border-radius: 4px;
+  border: 1px solid var(--glass-border);
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+.map-placeholder {
+  text-align: center;
+  color: var(--text-muted);
+}
+.map-placeholder i { font-size: 2rem; color: var(--gold); margin-bottom: 0.75rem; display: block; }
+.map-placeholder p { font-size: 0.85rem; }
+.map-dot {
+  position: absolute;
+  width: 12px; height: 12px;
+  background: var(--gold);
+  border-radius: 50%;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+}
+.map-dot::before {
+  content: '';
+  position: absolute; inset: -8px;
+  border: 2px solid var(--gold);
+  border-radius: 50%;
+  animation: mapPulse 2s ease-out infinite;
+}
+@keyframes mapPulse {
+  0% { transform: scale(0.8); opacity: 1; }
+  100% { transform: scale(2); opacity: 0; }
+}
+
+/* Contact form */
+.contact-form-wrap { display: flex; flex-direction: column; gap: 1rem; }
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+#footer {
+  background: var(--espresso);
+  border-top: 1px solid var(--glass-border);
+  padding: clamp(3rem, 8vw, 6rem) clamp(1.5rem, 5vw, 4rem) 2rem;
+}
+.footer-main {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  gap: clamp(2rem, 4vw, 4rem);
+  max-width: 1300px;
+  margin: 0 auto 4rem;
+}
+.footer-brand-logo {
+  font-family: var(--font-serif);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--gold);
+  margin-bottom: 1rem;
+}
+.footer-brand-logo span { color: var(--cream); }
+.footer-brand-desc {
+  font-size: 0.88rem;
+  line-height: 1.9;
+  color: var(--text-muted);
+  margin-bottom: 1.5rem;
+  max-width: 300px;
+}
+.footer-newsletter { display: flex; gap: 0; }
+.footer-newsletter input {
+  flex: 1;
+  background: var(--glass);
+  border: 1px solid var(--glass-border);
+  border-right: none;
+  padding: 0.75rem 1rem;
+  color: var(--cream);
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  border-radius: 2px 0 0 2px;
+  outline: none;
+  transition: border-color 0.3s;
+}
+.footer-newsletter input:focus { border-color: var(--gold); }
+.footer-newsletter button {
+  background: var(--gold);
+  color: var(--espresso);
+  font-family: var(--font-pop);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  padding: 0.75rem 1.25rem;
+  border-radius: 0 2px 2px 0;
+  cursor: none;
+  transition: background 0.3s;
+  white-space: nowrap;
+}
+.footer-newsletter button:hover { background: var(--gold-light); }
+
+.footer-col-title {
+  font-family: var(--font-pop);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--cream);
+  margin-bottom: 1.25rem;
+}
+.footer-links { display: flex; flex-direction: column; gap: 0.75rem; }
+.footer-link {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  transition: color 0.3s, padding-left 0.3s;
+  cursor: none;
+}
+.footer-link:hover { color: var(--gold); padding-left: 6px; }
+
+.footer-bottom {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding-top: 2rem;
+  border-top: 1px solid var(--glass-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.footer-copy {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-family: var(--font-pop);
+}
+.footer-big {
+  text-align: center;
+  max-width: 1300px;
+  margin: 0 auto 4rem;
+  overflow: hidden;
+}
+.footer-big-text {
+  font-family: var(--font-serif);
+  font-size: clamp(4rem, 12vw, 10rem);
+  font-weight: 900;
+  color: rgba(214,193,166,0.04);
+  line-height: 1;
+  letter-spacing: -0.04em;
+  white-space: nowrap;
+  user-select: none;
+}
+
+/* ============================================================
+   PRODUCT MODAL
+   ============================================================ */
+#modal {
+  position: fixed; inset: 0;
+  z-index: 8000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s;
+  padding: 1rem;
+}
+#modal.open { opacity: 1; pointer-events: all; }
+.modal-backdrop {
+  position: absolute; inset: 0;
+  background: rgba(11,11,11,0.85);
+  backdrop-filter: blur(16px);
+}
+.modal-box {
+  position: relative;
+  z-index: 1;
+  background: var(--deep-mocha);
+  border: 1px solid var(--glass-border);
+  border-radius: 8px;
+  padding: clamp(1.5rem, 4vw, 2.5rem);
+  max-width: 520px;
+  width: 100%;
+  transform: translateY(30px) scale(0.97);
+  transition: transform 0.4s var(--spring);
+}
+#modal.open .modal-box { transform: translateY(0) scale(1); }
+.modal-close {
+  position: absolute;
+  top: 1rem; right: 1rem;
+  width: 36px; height: 36px;
+  border: 1px solid var(--glass-border);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  cursor: none;
+  transition: all 0.3s;
+}
+.modal-close:hover { background: var(--gold); border-color: var(--gold); color: var(--espresso); }
+.modal-emoji { font-size: 4rem; margin-bottom: 1rem; }
+.modal-title {
+  font-family: var(--font-serif);
+  font-size: 1.8rem;
+  color: var(--cream);
+  margin-bottom: 0.5rem;
+}
+.modal-category {
+  font-family: var(--font-pop);
+  font-size: 0.65rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 1rem;
+}
+.modal-desc {
+  font-size: 0.9rem;
+  line-height: 1.8;
+  color: var(--text-muted);
+  margin-bottom: 1.5rem;
+}
+.modal-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid var(--glass-border);
+  padding-top: 1.5rem;
+}
+.modal-price {
+  font-family: var(--font-serif);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--gold);
+}
+
+/* ============================================================
+   ANIMATION UTILITIES
+   ============================================================ */
+.reveal { opacity: 0; transform: translateY(40px); }
+.reveal.visible { opacity: 1; transform: translateY(0); transition: opacity 0.8s, transform 0.8s var(--transition); }
+.reveal-left { opacity: 0; transform: translateX(-40px); }
+.reveal-left.visible { opacity: 1; transform: translateX(0); transition: opacity 0.8s, transform 0.8s var(--transition); }
+.reveal-right { opacity: 0; transform: translateX(40px); }
+.reveal-right.visible { opacity: 1; transform: translateX(0); transition: opacity 0.8s, transform 0.8s var(--transition); }
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width: 1024px) {
+  .about-img-accent { bottom: -20px; right: -15px; }
+  .footer-main { grid-template-columns: 1fr 1fr; }
+  .footer-big-text { font-size: clamp(3rem, 10vw, 7rem); }
+}
+
+@media (max-width: 768px) {
+  .nav-links, .nav-cta { display: none; }
+  .hamburger { display: flex; }
+  .about-grid { grid-template-columns: 1fr; }
+  .about-visual { display: none; }
+  .bento-grid { grid-template-columns: 1fr 1fr; }
+  .bento-large { grid-column: span 2; }
+  .bento-tall { grid-row: span 1; }
+  .masonry-grid { columns: 2; }
+  .reservation-grid { grid-template-columns: 1fr; }
+  .contact-grid { grid-template-columns: 1fr; }
+  .footer-main { grid-template-columns: 1fr; }
+  .form-row { grid-template-columns: 1fr; }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 1.25rem; }
+}
+
+@media (max-width: 480px) {
+  :root { --nav-h: 64px; }
+  .bento-grid { grid-template-columns: 1fr; }
+  .bento-large { grid-column: span 1; }
+  .masonry-grid { columns: 2; column-gap: 0.5rem; }
+  .masonry-item { margin-bottom: 0.5rem; }
+  .hero-btns { flex-direction: column; }
+  .btn-primary, .btn-ghost { justify-content: center; }
+  .footer-big-text { font-size: clamp(2.5rem, 15vw, 5rem); }
+  .hours-grid { grid-template-columns: 1fr; }
+  .footer-newsletter { flex-direction: column; }
+  .footer-newsletter input { border-right: 1px solid var(--glass-border); border-radius: 2px; }
+  .footer-newsletter button { border-radius: 2px; }
+}
+</style>
+</head>
+<body>
+
+<!-- Skip to main content (accessibility + SEO) -->
+<a href="#hero" style="position:fixed;top:-100px;left:1rem;z-index:999999;background:var(--gold);color:var(--espresso);padding:0.75rem 1.25rem;border-radius:4px;font-family:var(--font-pop);font-size:0.82rem;font-weight:700;transition:top 0.3s;" onfocus="this.style.top='1rem'" onblur="this.style.top='-100px'">Skip to main content</a>
+
+<!-- Custom Cursor -->
+<div id="cursor-dot"></div>
+<div id="cursor-ring"></div>
+
+<!-- Scroll Progress -->
+<div id="scroll-progress"></div>
+
+<!-- Preloader -->
+<div id="preloader">
+  <div class="preloader-logo">Brewwmongoose</div>
+  <div class="preloader-bar"><div class="preloader-fill" id="preloader-fill"></div></div>
+  <div class="preloader-tagline">Crafting Perfection · One Cup at a Time</div>
+</div>
+
+<!-- ============================================================
+     NAVBAR
+     ============================================================ -->
+<nav id="navbar" role="navigation" aria-label="Main navigation">
+  <a href="#hero" class="nav-logo">Breww<span>mongoose</span></a>
+  <ul class="nav-links">
+    <li><a href="#about" class="nav-link" data-section="about">About</a></li>
+    <li><a href="#menu" class="nav-link" data-section="menu">Menu</a></li>
+    <li><a href="#experience" class="nav-link" data-section="experience">Experience</a></li>
+    <li><a href="#gallery" class="nav-link" data-section="gallery">Gallery</a></li>
+    <li><a href="#journal" class="nav-link" data-section="journal">Journal</a></li>
+    <li><a href="#contact" class="nav-link" data-section="contact">Contact</a></li>
+  </ul>
+  <a href="#reservation" class="nav-cta">Reserve a Table</a>
+  <button class="hamburger" id="hamburger" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<!-- Mobile Menu -->
+<div id="mobile-menu">
+  <a href="#about" class="nav-link" data-mobile-link>About</a>
+  <a href="#menu" class="nav-link" data-mobile-link>Menu</a>
+  <a href="#experience" class="nav-link" data-mobile-link>Experience</a>
+  <a href="#gallery" class="nav-link" data-mobile-link>Gallery</a>
+  <a href="#journal" class="nav-link" data-mobile-link>Journal</a>
+  <a href="#reservation" class="nav-link" data-mobile-link>Reservations</a>
+  <a href="#contact" class="nav-link" data-mobile-link>Contact</a>
+  <div class="mobile-menu-footer">
+    <a href="#"><i class="fab fa-instagram"></i></a>
+    <a href="#"><i class="fab fa-twitter"></i></a>
+    <a href="#"><i class="fab fa-facebook-f"></i></a>
+  </div>
+</div>
+
+<main id="main-content">
+<!-- ============================================================
+     HERO SECTION
+     ============================================================ -->
+<section id="hero" aria-label="Hero — Brewwmongoose luxury coffee experience">
+  <div class="hero-bg">
+    <div class="hero-circle"></div>
+    <div class="hero-circle"></div>
+    <div class="hero-circle"></div>
+  </div>
+  <div class="steam-wrap">
+    <div class="steam"></div>
+    <div class="steam"></div>
+    <div class="steam"></div>
+  </div>
+  <div id="particles-container"></div>
+
+  <div class="hero-content">
+    <div class="hero-eyebrow" id="hero-eyebrow">Est. 2019 · Jaipur, India</div>
+    <h1 class="hero-title" id="hero-title" itemprop="name">
+      Where Every Cup<em>Tells a Story</em>
+    </h1>
+    <p class="hero-subtitle" id="hero-subtitle">
+      Brewwmongoose is more than a café — it's a ritual, a refuge, a revolution. We craft extraordinary coffee experiences for the extraordinary soul.
+    </p>
+    <div class="hero-btns" id="hero-btns">
+      <a href="#menu" class="btn-primary"><span>Explore Our Menu</span> <i class="fas fa-arrow-right"></i></a>
+      <a href="#reservation" class="btn-ghost">Reserve a Table <i class="fas fa-calendar"></i></a>
+    </div>
+  </div>
+
+  <div class="scroll-indicator" id="scroll-indicator">
+    <span>Scroll</span>
+    <div class="scroll-mouse"><div class="scroll-dot"></div></div>
+  </div>
+</section>
+
+<!-- ============================================================
+     ABOUT SECTION
+     ============================================================ -->
+<section id="about" aria-label="About Brewwmongoose">
+  <div class="about-grid">
+    <div class="about-visual reveal-left">
+      <div class="about-img-main">
+        <span style="opacity:0.12; font-size: 10rem;">☕</span>
+        <div style="position:absolute; bottom:1.5rem; left:1.5rem; right:1.5rem;">
+          <div style="height:2px; background: linear-gradient(90deg, var(--gold), transparent); margin-bottom:1rem;"></div>
+          <p style="font-family:var(--font-pop); font-size:0.72rem; letter-spacing:0.3em; text-transform:uppercase; color:var(--gold);">Our Story</p>
+        </div>
+      </div>
+      <div class="about-img-accent">
+        <div>
+          <p style="font-family:var(--font-serif); font-size:1.4rem; font-style:italic; color:var(--gold); margin-bottom:0.25rem;">"Crafted with<br>intention."</p>
+          <p style="font-family:var(--font-pop); font-size:0.65rem; letter-spacing:0.2em; text-transform:uppercase; color:var(--text-muted);">— Brewwmongoose</p>
+        </div>
+      </div>
+    </div>
+    <div class="about-text">
+      <div class="section-label reveal">Our Heritage</div>
+      <h2 class="section-title reveal">Born from<br><em>Passion,</em><br>Brewed with Soul</h2>
+      <p class="section-body reveal">
+        What started as a wild idea between two coffee obsessives became Jaipur's most talked-about café experience. Brewwmongoose was founded on one simple belief: that a great cup of coffee can change your entire day.
+      </p>
+      <p class="section-body reveal" style="margin-top: 1rem;">
+        Every bean is sourced with intention. Every brew is a meditation. Every visit is an escape. We don't just serve coffee — we curate moments.
+      </p>
+      <div class="stats-grid">
+        <div class="stat-item reveal">
+          <div class="stat-number" data-counter="50000" data-suffix="+">0</div>
+          <div class="stat-label">Customers Served</div>
+        </div>
+        <div class="stat-item reveal">
+          <div class="stat-number" data-counter="120000" data-suffix="+">0</div>
+          <div class="stat-label">Coffees Brewed</div>
+        </div>
+        <div class="stat-item reveal">
+          <div class="stat-number" data-counter="8" data-suffix="">0</div>
+          <div class="stat-label">Cities Reached</div>
+        </div>
+        <div class="stat-item reveal">
+          <div class="stat-number" data-counter="5" data-suffix=" Yrs">0</div>
+          <div class="stat-label">Of Experience</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     MENU SECTION
+     ============================================================ -->
+<section id="menu" aria-label="Our Menu — Coffee, Signature Brews, Desserts and Merchandise">
+  <div class="menu-header reveal">
+    <div class="section-label">Crafted for You</div>
+    <h2 class="section-title">The <em>Menu</em></h2>
+    <p class="section-body" style="margin: 1rem auto 0; text-align:center;">Each item is a masterpiece — sourced globally, crafted locally, served with ceremony.</p>
+  </div>
+  <div class="filter-tabs reveal">
+    <button class="filter-tab active" data-filter="all">All</button>
+    <button class="filter-tab" data-filter="coffee">Coffee</button>
+    <button class="filter-tab" data-filter="signature">Signature</button>
+    <button class="filter-tab" data-filter="dessert">Desserts</button>
+    <button class="filter-tab" data-filter="merch">Merch</button>
+    <button class="filter-tab" data-filter="limited">Limited</button>
+  </div>
+  <div class="menu-grid" id="menu-grid"></div>
+</section>
+
+<!-- ============================================================
+     EXPERIENCE SECTION
+     ============================================================ -->
+<section id="experience" aria-label="The Brewwmongoose Experience">
+  <div class="experience-header">
+    <div class="section-label reveal">Immersive & Intentional</div>
+    <h2 class="section-title reveal">The <em>Brewwmongoose</em><br>Experience</h2>
+  </div>
+  <div class="bento-grid">
+    <div class="bento-item bento-large reveal">
+      <div class="bento-bg">🫘</div>
+      <div class="bento-content">
+        <div class="bento-tag">The Atmosphere</div>
+        <div class="bento-title">A Space Designed for Deep Conversations</div>
+        <div class="bento-desc">Warm lighting, curated music, and interiors that whisper luxury. Every corner is Instagrammable, every seat is an invitation to slow down.</div>
+      </div>
+    </div>
+    <div class="bento-item bento-tall reveal">
+      <div class="bento-bg">⚗️</div>
+      <div class="bento-content">
+        <div class="bento-tag">The Craft</div>
+        <div class="bento-title">Science Meets Artistry</div>
+        <div class="bento-desc">Our master baristas treat brewing as a sacred ritual — precision temperature, perfect pressure, and a deep respect for the bean.</div>
+      </div>
+    </div>
+    <div class="bento-item reveal">
+      <div class="bento-bg">🌿</div>
+      <div class="bento-content">
+        <div class="bento-tag">Sourcing</div>
+        <div class="bento-title">Farm to Cup Excellence</div>
+        <div class="bento-desc">Single-origin beans from Coorg, Chikmagalur, and beyond. Ethical, direct, exceptional.</div>
+      </div>
+    </div>
+    <div class="bento-item reveal">
+      <div class="bento-bg">👥</div>
+      <div class="bento-content">
+        <div class="bento-tag">Community</div>
+        <div class="bento-title">The Mongoose Collective</div>
+        <div class="bento-desc">Monthly cupping events, latte art workshops, and coffee tasting masterclasses for the true enthusiast.</div>
+      </div>
+    </div>
+    <div class="bento-item reveal">
+      <div class="bento-bg">✨</div>
+      <div class="bento-content">
+        <div class="bento-tag">The Promise</div>
+        <div class="bento-title">Every Cup, Extraordinary</div>
+        <div class="bento-desc">We obsess so you can relax. Zero compromise, maximum intention, infinite satisfaction.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     GALLERY / INSTAGRAM SECTION
+     ============================================================ -->
+<section id="gallery" aria-label="Photo Gallery — Life at Brewwmongoose">
+  <div class="gallery-header reveal">
+    <div class="section-label">Visual Stories</div>
+    <h2 class="section-title">Life at<br><em>Brewwmongoose</em></h2>
+    <p class="section-body" style="margin: 1rem auto 0; text-align:center;">Moments brewed and bottled. Follow our journey on Instagram.</p>
+    <a href="https://www.instagram.com/brewwmongoose/" target="_blank" class="insta-handle">
+      <i class="fab fa-instagram"></i> @brewwmongoose
+    </a>
+  </div>
+  <div class="masonry-grid" id="masonry-grid"></div>
+  <div class="gallery-cta-wrap reveal">
+    <a href="https://www.instagram.com/brewwmongoose/" target="_blank" class="btn-ghost">
+      <i class="fab fa-instagram"></i> Follow on Instagram
+    </a>
+  </div>
+</section>
+
+<!-- Lightbox -->
+<div id="lightbox">
+  <div id="lightbox-content"></div>
+  <button id="lightbox-close"><i class="fas fa-times"></i></button>
+</div>
+
+<!-- ============================================================
+     JOURNAL SECTION
+     ============================================================ -->
+<section id="journal" aria-label="Journal — Coffee Stories and Brewing Guides">
+  <div class="journal-header">
+    <div>
+      <div class="section-label reveal">Stories & Insights</div>
+      <h2 class="section-title reveal">The <em>Journal</em></h2>
+    </div>
+    <a href="#" class="btn-ghost reveal" style="white-space:nowrap; align-self:flex-end;">All Articles <i class="fas fa-arrow-right"></i></a>
+  </div>
+  <div class="journal-grid" id="journal-grid"></div>
+</section>
+
+<!-- ============================================================
+     RESERVATION SECTION
+     ============================================================ -->
+<section id="reservation" aria-label="Reserve a Table at Brewwmongoose">
+  <div class="reservation-grid">
+    <div class="reservation-info">
+      <div class="section-label reveal">Book Your Experience</div>
+      <h2 class="section-title reveal">Reserve a <em>Table</em></h2>
+      <p class="section-body reveal">
+        Secure your spot for an unforgettable coffee experience. Whether it's an intimate date or a power meeting — we're ready for you.
+      </p>
+      <div class="reservation-details">
+        <div class="reservation-detail reveal">
+          <div class="reservation-detail-icon"><i class="fas fa-clock"></i></div>
+          <div class="reservation-detail-text">
+            <h4>Operating Hours</h4>
+            <p>Mon–Fri: 8:00 AM – 10:00 PM<br>Sat–Sun: 9:00 AM – 11:00 PM</p>
+          </div>
+        </div>
+        <div class="reservation-detail reveal">
+          <div class="reservation-detail-icon"><i class="fas fa-map-marker-alt"></i></div>
+          <div class="reservation-detail-text">
+            <h4>Location</h4>
+            <p>C-Scheme, Jaipur, Rajasthan 302001</p>
+          </div>
+        </div>
+        <div class="reservation-detail reveal">
+          <div class="reservation-detail-icon"><i class="fas fa-phone"></i></div>
+          <div class="reservation-detail-text">
+            <h4>Reservations</h4>
+            <p>+91 98765 43210<br>hello@brewwmongoose.com</p>
+          </div>
+        </div>
+        <div class="reservation-detail reveal">
+          <div class="reservation-detail-icon"><i class="fas fa-users"></i></div>
+          <div class="reservation-detail-text">
+            <h4>Group Bookings</h4>
+            <p>Private events for 10+ guests available. Contact us for bespoke packages.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="res-form-wrap reveal">
+      <div class="res-form" id="res-form-container">
+        <div class="form-success" id="form-success">
+          <div class="success-icon"><i class="fas fa-check"></i></div>
+          <h3 class="success-title">Reservation Confirmed!</h3>
+          <p class="success-text">We've received your booking and will confirm via email within 2 hours. We can't wait to welcome you.</p>
+        </div>
+        <form id="res-form" novalidate>
+          <div class="form-row">
+            <div class="form-group">
+              <input type="text" class="form-control" id="res-name" placeholder=" " required>
+              <label class="floating-label" for="res-name">Full Name</label>
+            </div>
+            <div class="form-group">
+              <input type="email" class="form-control" id="res-email" placeholder=" " required>
+              <label class="floating-label" for="res-email">Email Address</label>
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <input type="date" class="form-control" id="res-date" required>
+              <label class="floating-label" for="res-date">Date</label>
+            </div>
+            <div class="form-group">
+              <select class="form-control" id="res-time" required>
+                <option value="">Select Time</option>
+                <option>8:00 AM</option><option>9:00 AM</option>
+                <option>10:00 AM</option><option>11:00 AM</option>
+                <option>12:00 PM</option><option>1:00 PM</option>
+                <option>2:00 PM</option><option>3:00 PM</option>
+                <option>4:00 PM</option><option>5:00 PM</option>
+                <option>6:00 PM</option><option>7:00 PM</option>
+                <option>8:00 PM</option><option>9:00 PM</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <select class="form-control" id="res-guests">
+                <option value="">Guests</option>
+                <option>1 Guest</option><option>2 Guests</option>
+                <option>3 Guests</option><option>4 Guests</option>
+                <option>5 Guests</option><option>6+ Guests</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <select class="form-control" id="res-occasion">
+                <option value="">Occasion</option>
+                <option>Casual Visit</option><option>Business Meeting</option>
+                <option>Date Night</option><option>Birthday</option>
+                <option>Anniversary</option><option>Private Event</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <textarea class="form-control" id="res-notes" placeholder=" " rows="3"></textarea>
+            <label class="floating-label" for="res-notes">Special Requests (optional)</label>
+          </div>
+          <button type="submit" class="form-submit"><span>Confirm Reservation</span></button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     CONTACT SECTION
+     ============================================================ -->
+<section id="contact" aria-label="Contact Brewwmongoose">
+  <div class="contact-grid">
+    <div class="contact-info">
+      <div class="section-label reveal">Get in Touch</div>
+      <h2 class="section-title reveal">We'd Love to<br><em>Hear from You</em></h2>
+      <div class="contact-items">
+        <div class="contact-item reveal">
+          <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
+          <div class="contact-item-text">
+            <h4>Visit Us</h4>
+            <p>C-Scheme, Near Pink Square Mall<br>Jaipur, Rajasthan 302001</p>
+          </div>
+        </div>
+        <div class="contact-item reveal">
+          <div class="contact-icon"><i class="fas fa-phone"></i></div>
+          <div class="contact-item-text">
+            <h4>Call Us</h4>
+            <a href="tel:+919876543210">+91 98765 43210</a>
+          </div>
+        </div>
+        <div class="contact-item reveal">
+          <div class="contact-icon"><i class="fas fa-envelope"></i></div>
+          <div class="contact-item-text">
+            <h4>Email Us</h4>
+            <a href="mailto:hello@brewwmongoose.com">hello@brewwmongoose.com</a>
+          </div>
+        </div>
+        <div class="contact-item reveal">
+          <div class="contact-icon"><i class="fas fa-clock"></i></div>
+          <div class="contact-item-text">
+            <h4>Hours</h4>
+            <div class="hours-grid">
+              <div class="hours-row"><span>Mon – Fri</span><span>8AM – 10PM</span></div>
+              <div class="hours-row"><span>Saturday</span><span>9AM – 11PM</span></div>
+              <div class="hours-row"><span>Sunday</span><span>9AM – 11PM</span></div>
+              <div class="hours-row"><span>Holidays</span><span>10AM – 8PM</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="social-links reveal">
+        <a href="https://www.instagram.com/brewwmongoose/" target="_blank" class="social-link"><i class="fab fa-instagram"></i></a>
+        <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+        <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
+        <a href="#" class="social-link"><i class="fab fa-youtube"></i></a>
+        <a href="#" class="social-link"><i class="fab fa-whatsapp"></i></a>
+      </div>
+      <div class="map-container">
+        <div class="map-dot"></div>
+        <div class="map-placeholder">
+          <i class="fas fa-map-pin"></i>
+          <p>C-Scheme, Jaipur<br>Rajasthan, India</p>
+        </div>
+      </div>
+    </div>
+    <div class="contact-form-wrap reveal">
+      <div class="section-label" style="margin-bottom:1.5rem;">Send a Message</div>
+      <form id="contact-form" novalidate>
+        <div class="form-group">
+          <input type="text" class="form-control" id="c-name" placeholder=" " required>
+          <label class="floating-label" for="c-name">Your Name</label>
+        </div>
+        <div class="form-group">
+          <input type="email" class="form-control" id="c-email" placeholder=" " required>
+          <label class="floating-label" for="c-email">Email Address</label>
+        </div>
+        <div class="form-group">
+          <input type="text" class="form-control" id="c-subject" placeholder=" ">
+          <label class="floating-label" for="c-subject">Subject</label>
+        </div>
+        <div class="form-group">
+          <textarea class="form-control" id="c-message" placeholder=" " rows="5"></textarea>
+          <label class="floating-label" for="c-message">Your Message</label>
+        </div>
+        <button type="submit" class="form-submit"><span>Send Message <i class="fas fa-paper-plane"></i></span></button>
+      </form>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ============================================================
+     FOOTER
+     ============================================================ -->
+<footer id="footer" role="contentinfo" aria-label="Site footer">
+  <div class="footer-big"><div class="footer-big-text">Brewwmongoose</div></div>
+  <div class="footer-main">
+    <div>
+      <div class="footer-brand-logo">Breww<span>mongoose</span></div>
+      <p class="footer-brand-desc">
+        More than coffee — a way of life. Join the Brewwmongoose community and taste the difference that obsession makes.
+      </p>
+      <div class="footer-newsletter">
+        <input type="email" placeholder="Your email address" id="newsletter-email">
+        <button onclick="handleNewsletter()">Subscribe</button>
+      </div>
+    </div>
+    <div>
+      <div class="footer-col-title">Navigate</div>
+      <div class="footer-links">
+        <a href="#about" class="footer-link">About Us</a>
+        <a href="#menu" class="footer-link">Our Menu</a>
+        <a href="#experience" class="footer-link">Experience</a>
+        <a href="#gallery" class="footer-link">Gallery</a>
+        <a href="#journal" class="footer-link">Journal</a>
+      </div>
+    </div>
+    <div>
+      <div class="footer-col-title">Visit</div>
+      <div class="footer-links">
+        <a href="#reservation" class="footer-link">Reservations</a>
+        <a href="#contact" class="footer-link">Contact</a>
+        <a href="#" class="footer-link">Events</a>
+        <a href="#" class="footer-link">Private Dining</a>
+        <a href="#" class="footer-link">Gift Cards</a>
+      </div>
+    </div>
+    <div>
+      <div class="footer-col-title">Follow</div>
+      <div class="footer-links">
+        <a href="https://www.instagram.com/brewwmongoose/" target="_blank" class="footer-link"><i class="fab fa-instagram" style="margin-right:8px; color:var(--gold)"></i>Instagram</a>
+        <a href="#" class="footer-link"><i class="fab fa-twitter" style="margin-right:8px; color:var(--gold)"></i>Twitter</a>
+        <a href="#" class="footer-link"><i class="fab fa-facebook-f" style="margin-right:8px; color:var(--gold)"></i>Facebook</a>
+        <a href="#" class="footer-link"><i class="fab fa-youtube" style="margin-right:8px; color:var(--gold)"></i>YouTube</a>
+        <a href="#" class="footer-link"><i class="fab fa-whatsapp" style="margin-right:8px; color:var(--gold)"></i>WhatsApp</a>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p class="footer-copy">© 2024 Brewwmongoose. All rights reserved. Made with ☕ in Jaipur.</p>
+    <div style="display:flex; gap:1.5rem; flex-wrap:wrap;">
+      <a href="#" class="footer-link" style="font-size:0.75rem;">Privacy Policy</a>
+      <a href="#" class="footer-link" style="font-size:0.75rem;">Terms of Use</a>
+      <a href="#" class="footer-link" style="font-size:0.75rem;">Cookie Policy</a>
+    </div>
+  </div>
+</footer>
+
+<!-- Product Modal -->
+<div id="modal">
+  <div class="modal-backdrop" id="modal-backdrop"></div>
+  <div class="modal-box">
+    <button class="modal-close" id="modal-close"><i class="fas fa-times"></i></button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<!-- ============================================================
+     JAVASCRIPT
+     ============================================================ -->
+<script>
+// ============================================================
+// DATA
+// ============================================================
+const menuItems = [
+  { id:1, cat:'coffee', emoji:'☕', title:'Ethiopian Yirgacheffe', desc:'Bright citrus notes with a floral jasmine finish. Light roast, single origin.', price:'₹ 280', badge:'' },
+  { id:2, cat:'coffee', emoji:'🫘', title:'Cold Brew Noir', desc:'18-hour steeped, velvety smooth. Served over hand-carved ice.', price:'₹ 320', badge:'Best Seller' },
+  { id:3, cat:'signature', emoji:'🌙', title:'Midnight Espresso Tonic', desc:'Double shot espresso, elderflower tonic, lemon zest. A revelation.', price:'₹ 380', badge:'Signature' },
+  { id:4, cat:'coffee', emoji:'🍵', title:'Cortado Bliss', desc:'Equal parts espresso and steamed milk. Pure, balanced perfection.', price:'₹ 260', badge:'' },
+  { id:5, cat:'signature', emoji:'🫐', title:'Blueberry Cardamom Latte', desc:'House-made blueberry compote, ground cardamom, oat milk foam.', price:'₹ 360', badge:'New' },
+  { id:6, cat:'dessert', emoji:'🍮', title:'Coffee Panna Cotta', desc:'Set cream with espresso and a salted caramel drizzle. Ethereal.', price:'₹ 280', badge:'' },
+  { id:7, cat:'dessert', emoji:'🍰', title:'Tiramisu Noir', desc:'Our legendary dark-coffee tiramisu. 24-hour soaked ladyfingers.', price:'₹ 320', badge:'Chef\'s Pick' },
+  { id:8, cat:'merch', emoji:'🫙', title:'Brewwmongoose Blend 250g', desc:'Our signature house blend for home brewing. Medium-dark roast.', price:'₹ 650', badge:'' },
+  { id:9, cat:'merch', emoji:'☕', title:'Ceramic Pour-Over Kit', desc:'Handcrafted ceramic dripper + 100 filters. A ritual starter pack.', price:'₹ 1,200', badge:'' },
+  { id:10, cat:'limited', emoji:'🌟', title:'Kopi Luwak Reserve', desc:'Ultra-rare, ethically sourced. Only 20 cups served weekly. Book in advance.', price:'₹ 2,200', badge:'Limited' },
+  { id:11, cat:'limited', emoji:'✨', title:'Gold Saffron Cappuccino', desc:'Pure Kashmiri saffron, 24k edible gold leaf, single-origin espresso.', price:'₹ 980', badge:'Limited' },
+  { id:12, cat:'signature', emoji:'🍊', title:'Orange Blossom Cold Brew', desc:'24hr cold brew, orange blossom water, coconut cream, demerara sugar.', price:'₹ 350', badge:'Summer' },
+];
+
+const galleryItems = [
+  { emoji:'☕', ar:'1/1', g1:'#2A1E17', g2:'#4A3428', likes:'2.4k' },
+  { emoji:'🫘', ar:'4/5', g1:'#1a1008', g2:'#2A1E17', likes:'1.8k' },
+  { emoji:'🌙', ar:'1/1', g1:'#3a2818', g2:'#B88A44', likes:'3.2k' },
+  { emoji:'🍵', ar:'3/4', g1:'#2A1E17', g2:'#4A3428', likes:'1.1k' },
+  { emoji:'✨', ar:'1/1', g1:'#1a1008', g2:'#3a2818', likes:'4.5k' },
+  { emoji:'🫙', ar:'4/5', g1:'#4A3428', g2:'#2A1E17', likes:'956' },
+  { emoji:'🍮', ar:'1/1', g1:'#2A1E17', g2:'#B88A44', likes:'2.1k' },
+  { emoji:'🌿', ar:'3/4', g1:'#1a1008', g2:'#2A1E17', likes:'1.7k' },
+];
+
+const journalItems = [
+  { tag:'Coffee Culture', date:'May 12, 2025', emoji:'🌍', title:'The Journey of a Single Bean: From Ethiopia to Your Cup', excerpt:'We trace the extraordinary 8,000-mile journey our Ethiopian Yirgacheffe beans take before reaching your hands at Brewwmongoose.', read:'8 min read' },
+  { tag:'Brewing Guide', date:'Apr 28, 2025', emoji:'⚗️', title:'The Definitive Guide to Pour-Over Coffee at Home', excerpt:'Master barista Rohan Kumar breaks down the science and art of the perfect pour-over — water temperature, grind size, and bloom time.', read:'12 min read' },
+  { tag:'Brand Philosophy', date:'Apr 5, 2025', emoji:'💡', title:'Why We Refuse to Scale — and Why That\'s Our Greatest Strength', excerpt:'In a world obsessed with growth, Brewwmongoose chooses depth. Here\'s why staying boutique is the most radical thing we can do.', read:'6 min read' },
+];
+
+// ============================================================
+// RENDER: MENU
+// ============================================================
+function renderMenu(filter = 'all') {
+  const grid = document.getElementById('menu-grid');
+  const items = filter === 'all' ? menuItems : menuItems.filter(i => i.cat === filter);
+  grid.innerHTML = items.map(item => `
+    <div class="menu-card" data-id="${item.id}" onclick="openModal(${item.id})">
+      <div class="menu-card-img">
+        ${item.badge ? `<div class="menu-card-badge">${item.badge}</div>` : ''}
+        <span>${item.emoji}</span>
+        <div class="menu-card-overlay">
+          <div class="menu-card-overlay-btn">View Details</div>
+        </div>
+      </div>
+      <div class="menu-card-body">
+        <div class="menu-card-category">${item.cat}</div>
+        <div class="menu-card-title">${item.title}</div>
+        <div class="menu-card-desc">${item.desc}</div>
+        <div class="menu-card-footer">
+          <div class="menu-card-price">${item.price}</div>
+          <button class="menu-card-add" onclick="event.stopPropagation(); addToOrder(${item.id})">
+            <i class="fas fa-plus"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  `).join('');
+  // Re-observe new cards
+  grid.querySelectorAll('.menu-card').forEach(el => {
+    el.style.opacity = '0';
+    el.style.transform = 'translateY(30px)';
+    setTimeout(() => {
+      el.style.transition = 'opacity 0.5s, transform 0.5s';
+      el.style.opacity = '1';
+      el.style.transform = 'translateY(0)';
+    }, 50);
+  });
+}
+
+document.querySelectorAll('.filter-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    renderMenu(tab.dataset.filter);
+  });
+});
+
+// ============================================================
+// RENDER: GALLERY
+// ============================================================
+function renderGallery() {
+  const grid = document.getElementById('masonry-grid');
+  grid.innerHTML = galleryItems.map((item, i) => `
+    <div class="masonry-item" onclick="openLightbox('${item.emoji}')">
+      <div class="masonry-item-inner" style="--ar:${item.ar}; --g1:${item.g1}; --g2:${item.g2};">
+        <span>${item.emoji}</span>
+        <div class="masonry-overlay">
+          <div class="masonry-overlay-icon"><i class="fas fa-expand"></i></div>
+          <div class="masonry-overlay-likes"><i class="fas fa-heart" style="color:var(--gold); margin-right:4px;"></i>${item.likes}</div>
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+// ============================================================
+// RENDER: JOURNAL
+// ============================================================
+function renderJournal() {
+  const grid = document.getElementById('journal-grid');
+  grid.innerHTML = journalItems.map(item => `
+    <div class="journal-card reveal">
+      <div class="journal-card-img" style="font-size:3rem;">${item.emoji}</div>
+      <div class="journal-card-body">
+        <div class="journal-card-meta">
+          <span class="journal-card-tag">${item.tag}</span>
+          <span class="journal-card-date">${item.date}</span>
+        </div>
+        <div class="journal-card-title">${item.title}</div>
+        <div class="journal-card-excerpt">${item.excerpt}</div>
+        <div class="journal-card-read">
+          Read Article <i class="fas fa-arrow-right"></i>
+          <span style="color:var(--text-muted); font-weight:400; text-transform:none; letter-spacing:0; font-size:0.72rem;">&nbsp;· ${item.read}</span>
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+// ============================================================
+// LIGHTBOX
+// ============================================================
+function openLightbox(emoji) {
+  const lb = document.getElementById('lightbox');
+  document.getElementById('lightbox-content').innerHTML = `<span style="font-size:8rem;">${emoji}</span>`;
+  lb.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+document.getElementById('lightbox-close').addEventListener('click', () => {
+  document.getElementById('lightbox').classList.remove('open');
+  document.body.style.overflow = '';
+});
+document.getElementById('lightbox').addEventListener('click', e => {
+  if (e.target === e.currentTarget) {
+    e.currentTarget.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+});
+
+// ============================================================
+// PRODUCT MODAL
+// ============================================================
+function openModal(id) {
+  const item = menuItems.find(i => i.id === id);
+  if (!item) return;
+  document.getElementById('modal-body').innerHTML = `
+    <div class="modal-emoji">${item.emoji}</div>
+    <div class="modal-category">${item.cat}</div>
+    <div class="modal-title">${item.title}</div>
+    <div class="modal-desc">${item.desc} Prepared with the finest ingredients, every element of this offering has been obsessed over by our team to ensure an extraordinary experience.</div>
+    <div class="modal-footer">
+      <div class="modal-price">${item.price}</div>
+      <button class="btn-primary" onclick="addToOrder(${item.id})"><span>Add to Order <i class="fas fa-plus"></i></span></button>
+    </div>
+  `;
+  document.getElementById('modal').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeModal() {
+  document.getElementById('modal').classList.remove('open');
+  document.body.style.overflow = '';
+}
+document.getElementById('modal-close').addEventListener('click', closeModal);
+document.getElementById('modal-backdrop').addEventListener('click', closeModal);
+
+function addToOrder(id) {
+  const item = menuItems.find(i => i.id === id);
+  showToast(`${item.emoji} ${item.title} added!`);
+  closeModal();
+}
+
+// ============================================================
+// TOAST
+// ============================================================
+function showToast(msg) {
+  const t = document.createElement('div');
+  t.style.cssText = `
+    position:fixed; bottom:2rem; right:2rem; z-index:99000;
+    background:var(--gold); color:var(--espresso);
+    font-family:var(--font-pop); font-size:0.82rem; font-weight:600;
+    padding:0.9rem 1.5rem; border-radius:4px;
+    box-shadow: 0 12px 30px rgba(184,138,68,0.4);
+    transform:translateY(20px); opacity:0;
+    transition: all 0.4s cubic-bezier(0.34,1.56,0.64,1);
+  `;
+  t.textContent = msg;
+  document.body.appendChild(t);
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => { t.style.transform = 'translateY(0)'; t.style.opacity = '1'; });
+  });
+  setTimeout(() => {
+    t.style.transform = 'translateY(20px)'; t.style.opacity = '0';
+    setTimeout(() => t.remove(), 400);
+  }, 2800);
+}
+
+// ============================================================
+// FORMS
+// ============================================================
+document.getElementById('res-form').addEventListener('submit', function(e) {
+  e.preventDefault();
+  this.style.display = 'none';
+  document.getElementById('form-success').classList.add('show');
+  gsap.from('#form-success', { scale: 0.9, opacity: 0, duration: 0.6, ease: 'back.out(1.7)' });
+});
+
+document.getElementById('contact-form').addEventListener('submit', function(e) {
+  e.preventDefault();
+  showToast('✅ Message sent! We\'ll reply within 24 hours.');
+  this.reset();
+});
+
+function handleNewsletter() {
+  const email = document.getElementById('newsletter-email').value;
+  if (email && email.includes('@')) {
+    showToast('🎉 You\'re in! Welcome to the Mongoose family.');
+    document.getElementById('newsletter-email').value = '';
+  } else {
+    showToast('Please enter a valid email address.');
+  }
+}
+
+// ============================================================
+// CURSOR
+// ============================================================
+const dot = document.getElementById('cursor-dot');
+const ring = document.getElementById('cursor-ring');
+let mouseX = 0, mouseY = 0, ringX = 0, ringY = 0;
+document.addEventListener('mousemove', e => { mouseX = e.clientX; mouseY = e.clientY; dot.style.left = mouseX+'px'; dot.style.top = mouseY+'px'; });
+(function animateRing() {
+  ringX += (mouseX - ringX) * 0.12;
+  ringY += (mouseY - ringY) * 0.12;
+  ring.style.left = ringX + 'px';
+  ring.style.top = ringY + 'px';
+  requestAnimationFrame(animateRing);
+})();
+document.querySelectorAll('a, button, .menu-card, .filter-tab, .masonry-item, .journal-card, .bento-item').forEach(el => {
+  el.addEventListener('mouseenter', () => document.body.classList.add('cursor-hover'));
+  el.addEventListener('mouseleave', () => document.body.classList.remove('cursor-hover'));
+});
+
+// ============================================================
+// NAVBAR
+// ============================================================
+const navbar = document.getElementById('navbar');
+const hamburger = document.getElementById('hamburger');
+const mobileMenu = document.getElementById('mobile-menu');
+
+window.addEventListener('scroll', () => {
+  navbar.classList.toggle('scrolled', window.scrollY > 80);
+  // Update progress bar
+  const docH = document.documentElement.scrollHeight - window.innerHeight;
+  document.getElementById('scroll-progress').style.width = (window.scrollY / docH * 100) + '%';
+  // Active nav link
+  const sections = ['about','menu','experience','gallery','journal','contact','reservation'];
+  let current = '';
+  sections.forEach(id => {
+    const el = document.getElementById(id);
+    if (el && window.scrollY >= el.offsetTop - 200) current = id;
+  });
+  document.querySelectorAll('.nav-link[data-section]').forEach(l => {
+    l.classList.toggle('active', l.dataset.section === current);
+  });
+}, { passive: true });
+
+hamburger.addEventListener('click', () => {
+  hamburger.classList.toggle('open');
+  mobileMenu.classList.toggle('open');
+  document.body.style.overflow = mobileMenu.classList.contains('open') ? 'hidden' : '';
+});
+document.querySelectorAll('[data-mobile-link]').forEach(link => {
+  link.addEventListener('click', () => {
+    hamburger.classList.remove('open');
+    mobileMenu.classList.remove('open');
+    document.body.style.overflow = '';
+  });
+});
+
+// Smooth scroll for all anchor links
+document.querySelectorAll('a[href^="#"]').forEach(a => {
+  a.addEventListener('click', e => {
+    const target = document.querySelector(a.getAttribute('href'));
+    if (target) { e.preventDefault(); target.scrollIntoView({ behavior: 'smooth' }); }
+  });
+});
+
+// ============================================================
+// PARTICLES
+// ============================================================
+function createParticles() {
+  const container = document.getElementById('particles-container');
+  container.style.cssText = 'position:absolute;inset:0;pointer-events:none;overflow:hidden;';
+  for (let i = 0; i < 30; i++) {
+    const p = document.createElement('div');
+    p.className = 'particle';
+    p.style.cssText = `
+      left: ${Math.random()*100}%;
+      bottom: ${Math.random()*40}%;
+      animation-duration: ${3 + Math.random()*4}s;
+      animation-delay: ${Math.random()*5}s;
+      width: ${1 + Math.random()*2}px;
+      height: ${1 + Math.random()*2}px;
+    `;
+    container.appendChild(p);
+  }
+}
+
+// ============================================================
+// SCROLL REVEAL
+// ============================================================
+function initReveal() {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry, i) => {
+      if (entry.isIntersecting) {
+        setTimeout(() => entry.target.classList.add('visible'), i * 80);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -60px 0px' });
+  document.querySelectorAll('.reveal, .reveal-left, .reveal-right').forEach(el => observer.observe(el));
+}
+
+// ============================================================
+// COUNTER ANIMATION
+// ============================================================
+function animateCounter(el) {
+  const target = parseInt(el.dataset.counter);
+  const suffix = el.dataset.suffix || '';
+  const duration = 2000;
+  const start = performance.now();
+  function update(now) {
+    const elapsed = now - start;
+    const progress = Math.min(elapsed / duration, 1);
+    const eased = 1 - Math.pow(1 - progress, 3);
+    const value = Math.floor(eased * target);
+    el.textContent = value.toLocaleString('en-IN') + suffix;
+    if (progress < 1) requestAnimationFrame(update);
+  }
+  requestAnimationFrame(update);
+}
+const counterObserver = new IntersectionObserver(entries => {
+  entries.forEach(e => { if (e.isIntersecting) { animateCounter(e.target); counterObserver.unobserve(e.target); } });
+}, { threshold: 0.5 });
+document.querySelectorAll('[data-counter]').forEach(el => counterObserver.observe(el));
+
+// ============================================================
+// GSAP HERO ANIMATIONS
+// ============================================================
+function initHeroAnimations() {
+  gsap.registerPlugin(ScrollTrigger, TextPlugin);
+  const tl = gsap.timeline({ delay: 0.3 });
+  tl.to('#hero-eyebrow', { opacity: 1, y: 0, duration: 0.8, ease: 'power3.out' }, 0.2)
+    .to('#hero-title', { opacity: 1, y: 0, duration: 1, ease: 'power3.out' }, 0.5)
+    .to('#hero-subtitle', { opacity: 0.75, y: 0, duration: 0.8, ease: 'power3.out' }, 0.9)
+    .to('#hero-btns', { opacity: 1, y: 0, duration: 0.8, ease: 'power3.out' }, 1.1)
+    .to('#scroll-indicator', { opacity: 1, y: 0, duration: 0.8, ease: 'power3.out' }, 1.4);
+  // Parallax hero
+  gsap.to('.hero-content', {
+    yPercent: -20,
+    ease: 'none',
+    scrollTrigger: { trigger: '#hero', start: 'top top', end: 'bottom top', scrub: true }
+  });
+  // Section reveals via GSAP
+  gsap.utils.toArray('.bento-item').forEach((el, i) => {
+    gsap.from(el, {
+      opacity: 0, y: 50, duration: 0.8, delay: i * 0.1, ease: 'power3.out',
+      scrollTrigger: { trigger: el, start: 'top 85%', toggleActions: 'play none none none' }
+    });
+  });
+}
+
+// ============================================================
+// PRELOADER
+// ============================================================
+function initPreloader() {
+  const fill = document.getElementById('preloader-fill');
+  createParticles();
+  renderMenu();
+  renderGallery();
+  renderJournal();
+  setTimeout(() => { fill.style.width = '100%'; }, 100);
+  setTimeout(() => {
+    const preloader = document.getElementById('preloader');
+    preloader.style.transition = 'opacity 0.8s, transform 0.8s';
+    preloader.style.opacity = '0';
+    preloader.style.transform = 'translateY(-20px)';
+    setTimeout(() => {
+      preloader.style.display = 'none';
+      document.body.style.cursor = 'none';
+      initHeroAnimations();
+      initReveal();
+    }, 800);
+  }, 2200);
+}
+
+// ============================================================
+// INIT
+// ============================================================
+window.addEventListener('DOMContentLoaded', initPreloader);
+
+// Disable cursor on touch
+window.addEventListener('touchstart', () => {
+  dot.style.display = 'none';
+  ring.style.display = 'none';
+}, { once: true });
+</script>
+</body>
+</html>
